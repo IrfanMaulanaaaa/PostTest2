@@ -289,8 +289,23 @@ public final String getSize adalah metode akses (getter) yang digunakan untuk me
 
 public final void setSize adalah metode mutator (setter) yang digunakan untuk mengubah nilai properti size. Metode ini menerima parameter size dan mengatur properti size sesuai dengan nilai yang diberikan.
 
+<h2>Penjelasan Output</h2>
 
+![image](https://github.com/IrfanMaulanaaaa/PostTest2/assets/121864328/f6ea6a7b-1f2d-4681-a6b3-e5c4c358f96a)
 
+opsi 1
+
+![image](https://github.com/IrfanMaulanaaaa/PostTest2/assets/121864328/51cad33b-2e21-4e63-86a0-0f14794e7c0a)
+
+opsi 2
+
+![image](https://github.com/IrfanMaulanaaaa/PostTest2/assets/121864328/283f1a62-13a9-439a-b934-f8adf62c08c4)
+
+opsi 3
+
+![image](https://github.com/IrfanMaulanaaaa/PostTest2/assets/121864328/282715de-6766-4e1f-a628-a39ec6a93936)
+
+opsi 4
 
 
 
